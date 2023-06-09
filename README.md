@@ -1,0 +1,1 @@
+# personal-portfolio-with-scrollanimation![screencapture-file-C-Users-Taha-Hamdy-Desktop-dizme-index-html-2022-09-06-21_38_18](https://user-images.githubusercontent.com/104000401/188725035-b5a48b70-c11e-46ab-af23-c47d19e30c21.png)
